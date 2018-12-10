@@ -1,0 +1,7 @@
+/Users/quentonbuss/Desktop/HomeworkTracker5000/HomeworkTracker5000/bin/Debug/HomeworkTracker5000.exe
+/Users/quentonbuss/Desktop/HomeworkTracker5000/HomeworkTracker5000/bin/Debug/HomeworkTracker5000.pdb
+/Users/quentonbuss/Desktop/HomeworkTracker5000/HomeworkTracker5000/obj/x86/Debug/HomeworkTracker5000.csprojAssemblyReference.cache
+/Users/quentonbuss/Desktop/HomeworkTracker5000/HomeworkTracker5000/obj/x86/Debug/HomeworkTracker5000.csproj.CoreCompileInputs.cache
+/Users/quentonbuss/Desktop/HomeworkTracker5000/HomeworkTracker5000/obj/x86/Debug/HomeworkTracker5000.exe
+/Users/quentonbuss/Desktop/HomeworkTracker5000/HomeworkTracker5000/obj/x86/Debug/HomeworkTracker5000.pdb
+/Users/quentonbuss/Desktop/HomeworkTracker5000/HomeworkTracker5000/bin/Debug/bin/Debug/Data/Data.csv
